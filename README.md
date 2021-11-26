@@ -82,7 +82,7 @@ python3 -m venv flaskenv
 ### Install gunicorn
 
 ```
-pip instal gunicorn
+pip install gunicorn
 ```
 
 ### Save dependencies
